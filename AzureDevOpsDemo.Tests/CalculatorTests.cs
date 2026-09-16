@@ -3,8 +3,8 @@
     [Fact]
     public void Add_ShouldReturnCorrectResult()
     {
-        var result = 2 + 3;
+        var result = 2 + 4;
 
-        Assert.Equal(5, result);
+        Assert.Equal(6, result);
     }
 }
